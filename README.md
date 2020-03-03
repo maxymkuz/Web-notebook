@@ -1,5 +1,5 @@
 # Web-notebook
-# http://maxymkuz.pythonanywhere.com/
+# http://maxkuz.pythonanywhere.com/
 ### This reository is written on Python programming language(Version 3.7+) to help people manage their daily tasks
 ## You can add, edit and delete any notes
 ___
